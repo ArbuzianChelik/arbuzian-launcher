@@ -5,8 +5,9 @@
   "author": "ArbuzianChelik",
   "version": "1.0.0",
   "versions": {
-    "1.0.0": "https://github.com/ArbuzianChelik/arbuzian-launcher/releases/download/paoc-v1.0.0/PAOC.dll",
-    "1.0.1": "https://github.com/ArbuzianChelik/arbuzian-launcher/releases/download/paoc-v1.0.1/PAOC.dll"
+    "1.0.0": "https://github.com/ArbuzianChelik/arbuzian-launcher/releases/download/Mods/PAoC_Mod-1.0.0.dll",
+    "1.1.0": "https://github.com/ArbuzianChelik/arbuzian-launcher/releases/download/Mods/PAoC_Mod-1.1.0.dll",
+    "1.2.0": "https://github.com/ArbuzianChelik/arbuzian-launcher/releases/download/Mods/PAoC_Mod-1.2.0.dll"
   },
   "dll_name": "PAOC.dll",
   "sha256": null
