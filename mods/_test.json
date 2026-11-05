@@ -1,0 +1,11 @@
+{
+  "id": "test",
+  "name": "Test mod",
+  "description": "Ignore ts.",
+  "author": "ArbuzianChelik",
+  "version": "1.0.0",
+  "versions": {
+  },
+  "dll_name": "test.dll",
+  "sha256": null
+}
